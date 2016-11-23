@@ -6,7 +6,7 @@ layout: default
   <div class="mui-col-md-8">
   {% for post in paginator.posts %}
     <article class="mui-panel">
-      <div class="bg-holder {% if post.color %}bg-{{ post.color }}{% endif %}" style="{% if post.cover %}background:url({{site.baseurl}}/{{post.cover}}) no-repeat center center{% endif %}">
+      <div class="bg-holder {% if post.color %}bg-{{ post.color }}{% endif %}" style="{% if post.cover %}background:url({{site.baseurl_root}}/{{post.cover}}) no-repeat center center{% endif %}">
         <h2 class="post-list-title">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
