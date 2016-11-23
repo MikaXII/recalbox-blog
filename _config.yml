@@ -1,0 +1,32 @@
+# Site settings
+## Change the values as needed.
+title: Recalblog
+email: mika@recalbox.com
+description: "Blog about recalbox-os, retrogaming and fun"
+keywords: "retrogaming, retro, recalbox, recalbox-os"
+#url: "https://blog.geekael.fr"
+#baseurl: "/bitwiser-material" # the subpath of your site, e.g. /blog/
+paginate: 5
+paginate_path: "page:num"
+# Build settings
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed
+links:
+  facebook: Recalbox
+  twitter: Recalbox
+  email: mika@recalbox.com
+  github: Recalbox/recalbox-os/
+full_name: Recalbox
+exclude: ["bower_components","less","node_modules","Gruntfile.js","package.json","README.md"]
+gems: [jekyll-paginate, jekyll-feed, jekyll-multiple-languages-plugin]
+languages: ["en","fr"]
+exclude_from_localizations: ["javascript", "images", "css"]
+##set this to enable disqus commenting
+#disqus: bitwiser
+
+##set this to enable google analytics
+#ga_id: analyticsID
+#ga_domain: bitwiser.in
