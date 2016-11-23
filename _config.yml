@@ -20,10 +20,10 @@ links:
   email: mika@recalbox.com
   github: Recalbox/recalbox-os/
 full_name: Recalbox
-exclude: ["bower_components","less","node_modules","Gruntfile.js","package.json","README.md"]
+exclude: ["bower_components","less","node_modules","Gruntfile.js","package.json","README.md","css", "js", "img", "bin"]]
 gems: [jekyll-paginate, jekyll-feed, jekyll-multiple-languages-plugin]
 languages: ["en","fr"]
-exclude_from_localizations: ["javascript", "images", "css"]
+exclude_from_localizations: ["javascript", "images", "css", "js", "img", "bin"]
 ##set this to enable disqus commenting
 #disqus: bitwiser
 
