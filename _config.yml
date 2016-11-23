@@ -4,8 +4,8 @@ title: Recalblog
 email: mika@recalbox.com
 description: "Blog about recalbox-os, retrogaming and fun"
 keywords: "retrogaming, retro, recalbox, recalbox-os"
-#url: "https://blog.geekael.fr"
-#baseurl: "/bitwiser-material" # the subpath of your site, e.g. /blog/
+#url: "127.0.0.1:4000"
+baseurl: "/recalbox-blog" # the subpath of your site, e.g. /blog/
 paginate: 5
 paginate_path: "page:num"
 # Build settings
