@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/MikaXII/recalbox-blog.svg?branch=master)](https://travis-ci.org/MikaXII/recalbox-blog)
+
+see [docs](https://github.com/MikaXII/recalbox-blog/tree/master/docs)
+
 # Bitwiser Material theme for Jekyll.
 A minimal material design theme using [muicss](https://www.muicss.com).
 
