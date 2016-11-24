@@ -9,7 +9,7 @@ layout: base
       {% if page.cover %}<div class="img-overlay"></div>{% endif %}
     </header>
     <div class="mui-container mui-panel post-content">
-      <h1 class="article-title"><a href="{{page.url}} | prepend {{ site.baseurl }}">{{ page.title }}</a></h1>
+      <h1 class="article-title"><a href="{{page.url | prepend site.baseurl }}">{{ page.title }}</a></h1>
       <p class="post-meta">by <a href="{{ site.url }}">{% if page.author %}{{ page.author }}{% else %}{{ site.full_name }}{% endif %}</a> on <time datetime="{{ page.date | date: "%Y-%m-%dT%H:%M" }}"><i class="fa fa-calendar"></i>{{ page.date | date: "%B %-d, %Y" }}</time>
       <span class="sharer">
         Share on: 
