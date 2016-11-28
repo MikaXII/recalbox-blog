@@ -4,6 +4,14 @@ layout: default
 
 <div class="home mui-row">
   <div class="mui-col-md-8">
+    <div>
+      <a href="{{ site.baseurl_root }}/fr">
+          <img src="http://upload.wikimedia.org/wikipedia/commons/1/14/Flag_of_france.png" alt="France" />
+      </a>
+      <a href="{{ site.baseurl_root }}/">
+          <img src="http://upload.wikimedia.org/wikipedia/commons/e/e1/Union_Jack_22x16.png" alt="English" />
+      </a>
+    </div>
   {% for post in paginator.posts %}
     <article class="mui-panel">
       <div class="bg-holder {% if post.color %}bg-{{ post.color }}{% endif %}" style="{% if post.cover %}background:url({{site.baseurl_root}}/{{post.cover}}) no-repeat center center;background-size: cover;{% endif %}">
