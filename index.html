@@ -6,10 +6,10 @@ layout: default
   <div class="mui-col-md-8">
     <div>
       <a href="{{ site.baseurl_root }}/fr">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Flag_of_france.png" alt="France" />
+          <img src="{{ "/img/Flag_of_france.png" | prepend: site.baseurl_root }}" alt="France" />
       </a>
       <a href="{{ site.baseurl_root }}/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Union_Jack_22x16.png" alt="English" />
+          <img src="{{ "/img/Union_Jack_22x16.png" | prepend: site.baseurl_root }}" alt="English" />
       </a>
     </div>
   {% for post in paginator.posts %}
