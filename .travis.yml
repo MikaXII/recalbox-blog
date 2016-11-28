@@ -3,8 +3,8 @@ rvm:
 - 2.3.1
 install:
 - "./bin/setup"
-script:
 - bundle exec jekyll build --trace
+script:
 - bundle exec htmlproofer ./_site --url-swap "\/recalbox-blog:" --only-4xx --allow-hash-href --empty-alt-ignore true
 after_success:
 - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && "./bin/automated"
