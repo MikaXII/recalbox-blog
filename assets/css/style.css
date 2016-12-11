@@ -160,9 +160,9 @@ main, .notepad-share-icons, .notepad-disqus {
 .notepad-site-head .notepad-site-head-content {
   width: 100%;
   text-align: center;
-  background-color: black;
+  background-color: #34495e;
   background-size: contain; 
-  background-image: url("/recalbox-blog/images/logo_play.png");
+  background-image: url("/recalbox-blog/images/logo_play_white.png");
   background-repeat: no-repeat;
   background-position: center;
   height: 100vh;
