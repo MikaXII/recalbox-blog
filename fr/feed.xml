@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+
+
+
+<title type="text"></title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http:/recalbox-blog/feed.xml" />
+<link rel="alternate" type="text/html" href="http:/recalbox-blog/" />
+<updated>2016-12-12T02:38:27+06:00</updated>
+<id>http:/recalbox-blog/</id>
+<author>
+  <name>Recalbox</name>
+  <uri>http:/recalbox-blog/</uri>
+  <email>mika@recalbox.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Seulement fr]]></title>
+  <link rel="alternate" type="text/html" href="http:/recalbox-blog/Seulement-fr"/>
+  <id>http:/recalbox-blog/Seulement-fr</id>
+  <published>2016-11-23T06:00:00+06:00</published>
+  <updated>2016-11-23T06:00:00+06:00</updated>
+  <author>
+    <name>Recalbox</name>
+    <uri>http:/recalbox-blog</uri>
+    <email>mika@recalbox.com</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;h1 id=&quot;contenu-seulement-fr&quot;&gt;Contenu seulement fr&lt;/h1&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/recalbox-blog/Seulement-fr&quot;&gt;Seulement fr&lt;/a&gt; was originally published by Recalbox at &lt;a href=&quot;http:/recalbox-blog&quot;&gt;&lt;/a&gt; on November 23, 2016.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Notice fr]]></title>
+  <link rel="alternate" type="text/html" href="http:/recalbox-blog/Notice"/>
+  <id>http:/recalbox-blog/Notice</id>
+  <published>2016-11-23T06:00:00+06:00</published>
+  <updated>2016-11-23T06:00:00+06:00</updated>
+  <author>
+    <name>Recalbox</name>
+    <uri>http:/recalbox-blog</uri>
+    <email>mika@recalbox.com</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;p&gt;&lt;small&gt;Notice du wiki officiel &lt;a href=&quot;https://jasonm23.github.io/markdown-css-themes/&quot; target=&quot;_blank&quot;&gt;http://jasonm23.github.io/markdown-css-themes/&lt;/a&gt;.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;#recalbox 3.3.X
+#Notice v1.0.7&lt;/p&gt;
+
+&lt;p&gt;http://www.recalbox.com&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I - &lt;a href=&quot;#first-use&quot;&gt;Première utilisation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;II - &lt;a href=&quot;#configuration&quot;&gt;Configuration&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A - &lt;a href=&quot;#controllers&quot;&gt;Manettes&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;1 - &lt;a href=&quot;#ps3controllers&quot;&gt;Manettes PS3&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;2 - &lt;a href=&quot;#xboxcontrollers&quot;&gt;Manettes XBox 360&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;3 - &lt;a href=&quot;#btcontrollers&quot;&gt;Ajouter une manette bluetooth&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;4 - &lt;a href=&quot;#configurecontrollers&quot;&gt;Configurer une manette&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;5 - &lt;a href=&quot;#btnmapping&quot;&gt;Mapping des boutons&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;6 - &lt;a href=&quot;#keyboardmapping&quot;&gt;Mapping du clavier&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;7 - &lt;a href=&quot;#gpiocontrollers&quot;&gt;Contrôleurs GPIO&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;8 - &lt;a href=&quot;#virtualgamepads&quot;&gt;Virtual Gamepads&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;B - &lt;a href=&quot;#system-settings&quot;&gt;Réglages système&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;III - &lt;a href=&quot;#es&quot;&gt;EmulationStation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A - &lt;a href=&quot;#es-pres&quot;&gt;Présentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;B - &lt;a href=&quot;#es-settings&quot;&gt;Options dans Emulationstion&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;1 - &lt;a href=&quot;#es-settings-sys&quot;&gt;Options système&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;2 - &lt;a href=&quot;#es-settings-games&quot;&gt;Options des jeux&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;3 - &lt;a href=&quot;#es-settings-controllers&quot;&gt;Options des manettes&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;4 - &lt;a href=&quot;#es-settings-ui&quot;&gt;Options de l’interface&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;5 - &lt;a href=&quot;#es-settings-sound&quot;&gt;Options du son&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;6 - &lt;a href=&quot;#es-settings-network&quot;&gt;Options réseau&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;C - &lt;a href=&quot;#controls&quot;&gt;Contrôles&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;D - &lt;a href=&quot;#favorites&quot;&gt;Favoris&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;E - &lt;a href=&quot;#scrapper&quot;&gt;Scraper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;IV - &lt;a href=&quot;#duringgame&quot;&gt;Pendant le jeu&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A - &lt;a href=&quot;#duringgame-saves&quot;&gt;Sauvegardes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;B - &lt;a href=&quot;#duringgame-special&quot;&gt;Commandes spéciales&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;V - &lt;a href=&quot;#updates&quot;&gt;Mises à jour&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VI - &lt;a href=&quot;#network&quot;&gt;Fonctionnalités réseau&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A - &lt;a href=&quot;#network-add&quot;&gt;Ajouter ses propres jeux&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;B - &lt;a href=&quot;#network-arcade&quot;&gt;Jeux Arcade&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;C - &lt;a href=&quot;#network-scummvm&quot;&gt;Jeux Scummvm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;D - &lt;a href=&quot;#network-screenshots&quot;&gt;Captures d’écran&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;E - &lt;a href=&quot;#saves&quot;&gt;Faire une copie de ses sauvegardes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VII - &lt;a href=&quot;#kodi&quot;&gt;Kodi Media Center&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VIII - &lt;a href=&quot;#trouble&quot;&gt;Dépannage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A - &lt;a href=&quot;#trouble-controllers&quot;&gt;Manettes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;B - &lt;a href=&quot;#trouble-other&quot;&gt;Autres problèmes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;C - &lt;a href=&quot;#hard-reset&quot;&gt;Restauration complète de la recalbox&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;D - &lt;a href=&quot;#root-access&quot;&gt;Accès ROOT&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;IX - &lt;a href=&quot;#recalbox.conf&quot;&gt;recalbox.conf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;La recalbox est un système permettant de retrouver le plaisir de jouer aux jeux retro old school, de façon simple et conviviale.&lt;/p&gt;
+
+&lt;p&gt;Elle tourne sur un micro-ordinateur appelé Raspberry Pi (RPi), et utilise un ensemble d’émulateurs optimisés pour ce dernier.&lt;/p&gt;
+
+&lt;h2 id=&quot;i---première-utilisation&quot;&gt;&lt;a name=&quot;first-use&quot;&gt;&lt;/a&gt;I - Première utilisation&lt;/h2&gt;
+&lt;p&gt;Le package de la recalbox contient les éléments suivant :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Un raspberry Pi 1, 2 ou 3&lt;/li&gt;
+  &lt;li&gt;Une carte µSD/SD de 16GB ou plus&lt;/li&gt;
+  &lt;li&gt;Un câble HDMI&lt;/li&gt;
+  &lt;li&gt;Une alimentation micro USB &lt;strong&gt;&amp;gt;1.5AMP&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Une manette USB ou Bluetooth&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Référez vous à &lt;strong&gt;&lt;a href=&quot;http://www.recalbox.com/diyrecalbox&quot;&gt;recalbox.com/
+recalbox&lt;/a&gt;&lt;/strong&gt; pour plus d’informations à propos de votre première installation.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Une fois [[l’installation&lt;/td&gt;
+      &lt;td&gt;Installation-(FR)]] réalisée, la première chose à faire et de relier la recalbox avec la télévision à l’aide du câble HDMI.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Pour allumer la recalbox, il vous suffit de brancher l’alimentation micro USB sur votre recalbox.
+De nombreuses manettes fonctionnent “out the box”, mais si vous voulez configurer une manette USB, alors branchez un clavier USB à votre recalbox et regardez &lt;a href=&quot;#configurecontrollers&quot;&gt;Ajouter une manette USB&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pour éteindre le système :  pressez le bouton start de la manette et choisissez “Quitter” et “Éteindre le système”.
+Vous pouvez ensuite débrancher l’alimentation dès que l’écran est en veille. &lt;em&gt;(Conseil: attendez que la led verte/orange arrête de clignoter sur le Raspberry)&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ii---configuration&quot;&gt;&lt;a name=&quot;configuration&quot;&gt;&lt;/a&gt;II - Configuration&lt;/h2&gt;
+
+&lt;h3 id=&quot;a---manettes&quot;&gt;&lt;a name=&quot;controllers&quot;&gt;&lt;/a&gt;A - Manettes&lt;/h3&gt;
+&lt;p&gt;Les contrôleurs &lt;em&gt;PS3 Dualshock&lt;/em&gt; et &lt;em&gt;Xbox 360&lt;/em&gt; sont supportés en mode « sans fil ». De nombreux contrôleurs &lt;strong&gt;USB&lt;/strong&gt; et &lt;strong&gt;Bluetooth&lt;/strong&gt; sont également supportés. Pour plus d’informations, regardez la &lt;a href=&quot;https://github.com/recalbox/recalbox-os/wiki/Compatibility-%28EN%29&quot;&gt;liste des périphériques compatibles.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;1--manettes-ps3&quot;&gt;&lt;a name=&quot;ps3controllers&quot;&gt;&lt;/a&gt;1 – Manettes PS3&lt;/h4&gt;
+&lt;p&gt;Vous devez posséder un dongle bluetooth pour utiliser une manette sans fil PS3.
+Il vous est impossible de recharger votre manette via le Rpi, vous devez donc les recharger en utilisant directement l’alimentation USB.
+Ne branchez votre manette sur votre recalbox &lt;strong&gt;uniquement&lt;/strong&gt; pour l’associer à cette dernière.
+Afin d’associer une &lt;em&gt;manette PS3&lt;/em&gt;, branchez la sur votre recalbox et &lt;strong&gt;attendez 10 secondes&lt;/strong&gt;. Ce délai passé, vous pouvez alors la débrancher et appuyer sur le bouton Home.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Concernant les copies asiatiques de manettes PS3 dualshock 3 (GASIA or SHANWAN) regardez [[Pilotes des manettes PS3&lt;/td&gt;
+      &lt;td&gt;PS3-controllers-drivers-(FR)]]&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Rappelez vous que la configuration des manettes dans recalbox est basée sur une manette SNES concernant la disposition des boutons :&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;ps3 pad&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;snes pad&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;X&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;B&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;◯&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;A&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⬜&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Y&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;△&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;X&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;2--manettes-xbox-360&quot;&gt;&lt;a name=&quot;xboxcontrollers&quot;&gt;&lt;/a&gt;2 – Manettes XBox 360&lt;/h4&gt;
+&lt;p&gt;Les manettes sans fil Xbox 360 nécessitent un dongle spécifique pour fonctionner.
+Si vous possédez une manette Xbox 360 filaire ou sans fil, il vous est conseillé d’activer &lt;a href=&quot;https://github.com/recalbox/recalbox-os/wiki/recalbox.conf-%28FR%29&quot;&gt;le pilote xboxdrv via recalbox.conf&lt;/a&gt; pour profiter du meilleur support possible de votre manette.&lt;/p&gt;
+
+&lt;p&gt;Puis redémarrez votre recalbox avec votre manette ou votre dongle branché.&lt;/p&gt;
+
+&lt;p&gt;Rappelez vous que la configuration des manettes dans recalbox est basée sur une manette SNES concernant la disposition des boutons :&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;xbox pad&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;snes pad&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;A&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;B&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;B&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;A&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;X&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Y&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Y&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;X&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;3---ajouter-une-manette-bluetooth&quot;&gt;&lt;a name=&quot;btcontrollers&quot;&gt;&lt;/a&gt;3 - Ajouter une manette bluetooth&lt;/h4&gt;
+&lt;p&gt;Pour ajouter une manette bluetooth, réglez votre manette sur le mode appairage.
+Puis allez dans le menu avec le bouton start de votre manette ou entrée de votre clavier et sélectionnez ** Options manettes**.&lt;/p&gt;
+
+&lt;p&gt;Sélectionnez &lt;strong&gt;Associer une manette bluetooth&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/recalbox/recalbox-os/blob/master/wiki/images/bluetooth-pair.jpg&quot;&gt;&lt;img src=&quot;https://github.com/recalbox/recalbox-os/blob/master/wiki/images/bluetooth-pair-350px.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Une liste de manettes détectées apparaît, vous n’avez alors plus qu’à sélectionner votre manette et elle sera appairée ! Maintenant configurez votre manette si elle ne fait pas partie des manettes supportées !&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Pour les utilisateurs de &lt;strong&gt;8bitdo&lt;/strong&gt;, regardez [[8bitdo et recalbox&lt;/td&gt;
+      &lt;td&gt;8bitdo-on-recalbox-(EN)]].&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;4---configurer-une-manette&quot;&gt;&lt;a name=&quot;configurecontrollers&quot;&gt;&lt;/a&gt;4 - Configurer une manette&lt;/h4&gt;
+&lt;p&gt;Il est possible d’ajouter une manette ou un stick arcade en USB sur la recalbox.&lt;/p&gt;
+
+&lt;p&gt;La plupart des modèles sont compatibles., regardez la &lt;a href=&quot;https://github.com/recalbox/recalbox-os/wiki/Compatibility-%28EN%29&quot;&gt;liste de compatibilité&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Après avoir branché votre manette/stick USB ou votre manette bluetooth appairée, pressez START sur une manette déjà configurée (ou la touche Entrée de votre clavier), puis allez dans le menu “Configurer les manettes”.&lt;/p&gt;
+
+&lt;p&gt;Vous n’avez plus qu’à suivre les instructions.&lt;/p&gt;
+
+&lt;p&gt;Le dernier bouton, le &lt;strong&gt;HOTKEY&lt;/strong&gt; est un bouton qui va activer les combinaisons de touche, (regardez &lt;a href=&quot;#duringgame-special&quot;&gt;Les commandes spéciales&lt;/a&gt;). Pour une manette xbox 360 ou PS3, c’est le bouton &lt;strong&gt;HOME&lt;/strong&gt; ou &lt;strong&gt;PS&lt;/strong&gt; qui est configuré par défaut. Il est recommandé d’utiliser &lt;strong&gt;L3&lt;/strong&gt; (le click du joystick sur une dualshock) ou &lt;em&gt;&lt;strong&gt;SELECT&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Le nom des touches est basé sur les boutons de la Super Nintendo :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/recalbox/recalbox-os/blob/master/wiki/images/snes-controller.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Les boutons L et R (avec L2 R2 L3 R3) sont basés sur les manettes Playstation.&lt;/p&gt;
+
+&lt;p&gt;Pour passer les boutons que vous n’avez pas, pressez un bouton pendant 2 secondes. La configuration passera automatiquement au bouton suivant.&lt;/p&gt;
+
+&lt;p&gt;De retour à l’écran de configuration des manettes, vous pouvez assigner une manette à un joueur. &lt;em&gt;Votre manette est maintenant configurée !&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;5---mapping-des-boutons&quot;&gt;&lt;a name=&quot;btnmapping&quot;&gt;&lt;/a&gt;5 - Mapping des boutons&lt;/h4&gt;
+
+&lt;p&gt;Pour les manettes à 6 boutons (snes, psx, arcade etc), les boutons sont mappés pour correspondre à ceux de la manette originale.
+Pour les manettes à 2 boutons (nes, pcengine, gameboy etc) les boutons mappés sont B et A.&lt;/p&gt;
+
+&lt;h4 id=&quot;6---mapping-du-clavier&quot;&gt;&lt;a name=&quot;keyboardmapping&quot;&gt;&lt;/a&gt;6 - Mapping du clavier&lt;/h4&gt;
+
+&lt;p&gt;Si vous avez totalement raté la configuration de votre manette ou que vous voulez simplement configurer une manette, vous pouvez brancher un clavier USB sur la recalbox.
+Entrée est &lt;strong&gt;START&lt;/strong&gt;, Espace est &lt;strong&gt;SELECT&lt;/strong&gt;, Q est &lt;strong&gt;RETOUR&lt;/strong&gt;, S est &lt;strong&gt;OK&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;7---contrôleurs-gpio&quot;&gt;&lt;a name=&quot;gpiocontrollers&quot;&gt;&lt;/a&gt;7 - Contrôleurs GPIO&lt;/h4&gt;
+&lt;p&gt;Vous pouvez connecter vos boutons et joysticks arcade directement sur les GPIO du Raspberry Pi. Regardez [[Les contrôleurs GPIO |GPIO-controllers-(FR)]]&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Vous pouvez également connecter des manettes originales de PSOne, Nes, Snes, Megradrive , etc. Regardez [[les contrôleurs DB9&lt;/td&gt;
+      &lt;td&gt;DB9-controllers-(FR)]] et [[les contrôleurs Gamecom&lt;/td&gt;
+      &lt;td&gt;Gamecon-controllers-(FR)]]&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;8---virtual-gamepads&quot;&gt;&lt;a name=&quot;virtualgamepads&quot;&gt;&lt;/a&gt;8 - Virtual Gamepads&lt;/h4&gt;
+
+&lt;p&gt;Avec le projet de Miroof &lt;a href=&quot;https://github.com/miroof/node-virtual-gamepads&quot;&gt;Virtual Gamepads&lt;/a&gt; vous pouvez ajouter jusqu’à 4 manettes avec vos smartphones/tablettes !
+Démarrez le navigateur web de votre smartphone, puis tapez l’adresse IP de votre recalbox suivie du port de communication (port=8080). Vous pouvez trouver l’adresse IP de votre recalbox dans le menu &lt;a href=&quot;#es-settings-network&quot;&gt;Options réseau&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/recalbox/recalbox-os/blob/master/wiki/images/virutalgamepad_touch_zones.png&quot;&gt;&lt;img src=&quot;https://github.com/recalbox/recalbox-os/blob/master/wiki/images/virutalgamepad_touch_zones-350px.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Pour plus d’informations, regardez [[Virtual Gamepad&lt;/td&gt;
+      &lt;td&gt;Virtual-Gamepad-(FR)]]&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;b---réglages-système&quot;&gt;&lt;a name=&quot;system-settings&quot;&gt;&lt;/a&gt;B - Réglages système&lt;/h3&gt;
+&lt;p&gt;Vous avez deux possibilités de configurer votre recalbox. L’interface de Emulationstation propose de nombreuses options de configurations. Voir &lt;a href=&quot;#es-settings&quot;&gt;Options dans Emulationstation&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mais si vous désirez régler finement chaque émulateur un par un, vous devez regarder **[[recalbox.conf&lt;/td&gt;
+      &lt;td&gt;recalbox.conf-(FR)]]**&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;iii---emulationstation&quot;&gt;&lt;a name=&quot;es&quot;&gt;&lt;/a&gt;III - EmulationStation&lt;/h2&gt;
+
+&lt;h3 id=&quot;a---présentation&quot;&gt;&lt;a name=&quot;es-pres&quot;&gt;&lt;/a&gt;A - Présentation&lt;/h3&gt;
+
+&lt;p&gt;Lorsque vous allumez la recalbox, vous accédez à l’interface Emulationstation. Celle-ci vous permet de lancer vos jeux, de régler certaines options ou de mettre à jour la recalbox.&lt;/p&gt;
+
+&lt;p&gt;Le premier écran est celui des Systèmes :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/recalbox/recalbox-os/blob/master/wiki/images/emulationstation.jpg&quot;&gt;&lt;img src=&quot;https://github.com/recalbox/recalbox-os/blob/master/wiki/images/emulationstation-350px.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Il liste les consoles et systèmes disponibles.&lt;/p&gt;
+
+&lt;h3 id=&quot;b---options-dans-emulationstation&quot;&gt;&lt;a name=&quot;es-settings&quot;&gt;&lt;/a&gt;B - OPTIONS dans Emulationstation&lt;/h3&gt;
+
+&lt;p&gt;En pressant start, vous serez en mesure de modifier certains réglages système.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/recalbox/recalbox-os/blob/master/wiki/images/settings.jpg&quot;&gt;&lt;img src=&quot;https://github.com/recalbox/recalbox-os/blob/master/wiki/images/settings-350px.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;1---options-systÈme&quot;&gt;&lt;a name=&quot;es-settings-sys&quot;&gt;&lt;/a&gt;1 - OPTIONS SYSTÈME&lt;/h4&gt;
+&lt;p&gt;Vous accèderez aux &lt;strong&gt;informations système&lt;/strong&gt;, &lt;strong&gt;la sélection de la langue&lt;/strong&gt;, &lt;strong&gt;aux réglages de l’overclocking&lt;/strong&gt;; &lt;strong&gt;ceux de mise à jour&lt;/strong&gt; et &lt;strong&gt;ceux de Kodi&lt;/strong&gt;.
+Vous pouvez modifier l’overclock de votre RPi. Le classement des presets d’overclock pour le RPi1, par ordre croissant de vitesse, donne : 
+&lt;em&gt;NONE&lt;/em&gt; &amp;lt; &lt;em&gt;HIGH&lt;/em&gt; &amp;lt; &lt;em&gt;TURBO&lt;/em&gt; &amp;lt; &lt;em&gt;EXTREM&lt;/em&gt;
+Le réglage Extrem peut annuler la garanti de votre RPi, mais il s’agit &lt;strong&gt;du seul&lt;/strong&gt; qui vous donnera de bonnes performance avec tous les émulateurs du RPi1.&lt;/p&gt;
+
+&lt;p&gt;Il est également conseiller d’overclocker le RPi2 si vous voulez émuler la N64 et obtenir la meilleur expérience de jeu.&lt;/p&gt;
+
+&lt;h4 id=&quot;2---options-des-jeux&quot;&gt;&lt;a name=&quot;es-settings-games&quot;&gt;&lt;/a&gt;2 - OPTIONS DES JEUX&lt;/h4&gt;
+&lt;p&gt;Ce menu propose comme réglages :  &lt;strong&gt;format jeux&lt;/strong&gt; (16/9, 4/3), &lt;strong&gt;lisser les jeux&lt;/strong&gt; et &lt;strong&gt;rembobinage&lt;/strong&gt;
+L’option &lt;strong&gt;rembobinage&lt;/strong&gt; vous autorise à effectuer des retours dans le temps lors de votre partie.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;:warning: &lt;em&gt;Cela peut ralentir certains émulateurs (snes, psx)&lt;/em&gt; si vous l’activez par défaut. Vous pouvez l’activer seulement pour certains émulateur via [[recalbox.conf&lt;/td&gt;
+      &lt;td&gt;recalbox.conf-(FR)]].&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Vous pouvez également configurer facilement les &lt;em&gt;shaders&lt;/em&gt; pour les différents systèmes. L’option &lt;strong&gt;shader set&lt;/strong&gt; permet de sélectionner les différents pack de shaders disponibles avec recalbox. Les shaders &lt;strong&gt;scanlines&lt;/strong&gt; activent les scanlines sur tous les systèmes afin d’obtenir un rendu proche d’un écran CRT. Les shaders &lt;strong&gt;retro&lt;/strong&gt; sont un pack de shaders, correspondant au meilleur shader à appliquer à chaque système. Les shaders composant ce pack, sont choisis par la communauté et vous apporteront l’expérience de jeux la plus proche de l’expérience originale pour chaque système ! &lt;br /&gt;
+Pour plus d’informations, regardez [[Configuration des shaders|Shaders-configuration-(FR)]].&lt;/p&gt;
+
+&lt;p&gt;Vous pouvez aussi changer de &lt;em&gt;shader&lt;/em&gt; en plein jeu, en utilisant votre manette. Utilisez les &lt;a href=&quot;#duringgame-special&quot;&gt;Commandes spéciales&lt;/a&gt; Hotkey + R2 ou Hotkey + L2 pour voir s’afficher le shader suivant ou précédent.&lt;/p&gt;
+
+&lt;h4 id=&quot;3---options-manettes&quot;&gt;&lt;a name=&quot;es-settings-controllers&quot;&gt;&lt;/a&gt;3 - OPTIONS MANETTES&lt;/h4&gt;
+&lt;p&gt;C’est ici que vous pouvez configurer vos manettes.&lt;/p&gt;
+
+&lt;h4 id=&quot;4---options-de-linterface&quot;&gt;&lt;a name=&quot;es-settings-ui&quot;&gt;&lt;/a&gt;4 - OPTIONS DE L’INTERFACE&lt;/h4&gt;
+&lt;p&gt;Ce menu propose l’accès aux réglages de l’interface. Si l’image de votre recalbox a des bords noirs ou que l’image est recadrée, vous pouvez alors activer l’option overscan. Pour plus d’informations, regardez [[Overscan settings|Overscan-settings-(FR)]].&lt;/p&gt;
+
+&lt;h4 id=&quot;5---options-du-son&quot;&gt;&lt;a name=&quot;es-settings-sound&quot;&gt;&lt;/a&gt;5 - OPTIONS DU SON&lt;/h4&gt;
+&lt;p&gt;Ce menu propose de désactiver ou activer les &lt;strong&gt;musiques de fond&lt;/strong&gt; dans emulationstation, régler le &lt;strong&gt;volume du système&lt;/strong&gt; et sélectionner  la &lt;strong&gt;sortie audio&lt;/strong&gt; (&lt;em&gt;auto&lt;/em&gt;, &lt;em&gt;jack&lt;/em&gt; ou &lt;em&gt;hdmi&lt;/em&gt;) .
+Afin de forcer la sortie analogique, sélectionnez &lt;strong&gt;jack&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;6---options-reseau&quot;&gt;&lt;a name=&quot;es-settings-network&quot;&gt;&lt;/a&gt;6 - OPTIONS RESEAU&lt;/h4&gt;
+&lt;p&gt;Ce menu propose d’activer et configurer le &lt;strong&gt;wifi&lt;/strong&gt;, le &lt;strong&gt;nom du réseau&lt;/strong&gt; et d’obtenir &lt;strong&gt;l’adresse IP&lt;/strong&gt; de votre recalbox.
+Saisissez  le SSID et la clé de votre réseau wifi avec un clavier. Une fois les informations validées, le wifi sera activé.&lt;/p&gt;
+
+&lt;p&gt;Problème connu : Il est impossible de saisir certains caractères nécessaires à vos informations réseau.
+Si vous rencontrez ce souci, configurez alors votre accès wifi directement dans le fichier  [[recalbox.conf|recalbox.conf-(FR)]].&lt;/p&gt;
+
+&lt;h3 id=&quot;c---contrôles&quot;&gt;&lt;a name=&quot;controls&quot;&gt;&lt;/a&gt;C - Contrôles&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Les commandes dans l’interface :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A → Sélectionner&lt;br /&gt;
+B → Retour&lt;br /&gt;
+Y → Favoris&lt;br /&gt;
+X → Démarrer Kodi&lt;br /&gt;
+Start → Menu&lt;br /&gt;
+Select → Options (sur l’écran système, ouvre le menu de redémarrage)&lt;br /&gt;
+R → Page Suivante&lt;br /&gt;
+L → Page Précédente&lt;/p&gt;
+
+&lt;p&gt;Lorsque vous sélectionnez un système avec la touche A, l’écran change et vous accédez à votre liste de jeux disponibles.&lt;/p&gt;
+
+&lt;p&gt;Une fois le jeu lancé, reportez-vous à la section [Pendant le jeu] pour connaître les options disponibles.&lt;/p&gt;
+
+&lt;h3 id=&quot;d---favoris&quot;&gt;&lt;a name=&quot;favorites&quot;&gt;&lt;/a&gt;D - Favoris&lt;/h3&gt;
+
+&lt;p&gt;Vous pouvez définir un jeu comme favoris en pressant la touche Y. Le jeu sera alors placé en début de liste avec une ☆ devant son nom.
+Le système doit être éteint proprement en utilisant le menu de emulationstation pour que que la liste de jeux en favoris soit sauvegardée et que vous la retrouviez au prochain démarrage.&lt;/p&gt;
+
+&lt;h3 id=&quot;e---scraper&quot;&gt;&lt;a name=&quot;scrapper&quot;&gt;&lt;/a&gt;E - Scraper&lt;/h3&gt;
+
+&lt;p&gt;Pour chaque jeu, vous pouvez obtenir des informations (pochette, résumé, etc…) qui seront affichées dans le menu de sélection des jeux de emulationstation. Pressez &lt;strong&gt;START&lt;/strong&gt; et aller dans &lt;strong&gt;SCRAPER&lt;/strong&gt;. Suivez alors les instructions à l’écran.&lt;/p&gt;
+
+&lt;h2 id=&quot;iv---pendant-le-jeu&quot;&gt;&lt;a name=&quot;duringgame&quot;&gt;&lt;/a&gt;IV - Pendant le jeu&lt;/h2&gt;
+
+&lt;h3 id=&quot;a---sauvegarde&quot;&gt;&lt;a name=&quot;duringgame-saves&quot;&gt;&lt;/a&gt;A - Sauvegarde&lt;/h3&gt;
+&lt;p&gt;Les émulateurs proposent une option très utile : la “save state” (sauvegarde d’état). C’est une sauvegarde rapide du jeu qui vous permet de le recharger, plus tard, à cet endroit précis.&lt;/p&gt;
+
+&lt;p&gt;Avec ce système, plus besoin d’aller chercher un point de sauvegarde ou de recommencer les jeux depuis le début !&lt;/p&gt;
+
+&lt;p&gt;Vous pouvez utiliser ce que l’on appelle des “slots” (emplacements) pour sauvegarder plusieurs “save state” pour le même jeu.&lt;/p&gt;
+
+&lt;p&gt;Pour effectuer une “save state”, faites la combinaison &lt;strong&gt;Hotkey&lt;/strong&gt; + &lt;strong&gt;Y&lt;/strong&gt; en jeu.&lt;/p&gt;
+
+&lt;h3 id=&quot;b---commandes-spéciales&quot;&gt;&lt;a name=&quot;duringgame-special&quot;&gt;&lt;/a&gt;B - Commandes spéciales&lt;/h3&gt;
+&lt;p&gt;Lorsque vous êtes dans le jeu, des commandes spéciales sont disponibles :&lt;/p&gt;
+
+&lt;p&gt;Appuyez en même temps sur le bouton Hotkey et sur un des boutons suivant :&lt;/p&gt;
+
+&lt;p&gt;Y -&amp;gt; Sauvegarder l’état dans le slot sélectionné&lt;br /&gt;
+X -&amp;gt; Charger l’état dans le slot sélectionné&lt;br /&gt;
+START -&amp;gt; Quitter&lt;br /&gt;
+B -&amp;gt; Menu&lt;br /&gt;
+UP -&amp;gt; Sélectionner le Slot de sauvegarde -1&lt;br /&gt;
+DOWN -&amp;gt; Sélectionner le Slot de sauvegarde +1&lt;br /&gt;
+L1 -&amp;gt; Screenshot&lt;br /&gt;
+RIGHT -&amp;gt; Accélérer le jeu   &lt;br /&gt;
+LEFT -&amp;gt; Rembobinage (si l’option est activée) &lt;br /&gt;
+R2 -&amp;gt; Shader suivant &lt;br /&gt;
+L2 -&amp;gt; Shader précédent&lt;/p&gt;
+
+&lt;p&gt;Dans FBA et Mame, utilisez la touche SELECT pour ajouter un crédit.&lt;/p&gt;
+
+&lt;p&gt;Pour accéder au menu de configuration de retroarch, pressez &lt;em&gt;Hotkey&lt;/em&gt; + &lt;em&gt;B&lt;/em&gt;
+Si vous désirez configurer retroarch et sauvegarder votre configuration, activez l’option “Save settings on Exit” dans le menu de retroarch. une fois cette option activée, toutes les modification effectuées dans le menu seront sauvegardées.&lt;/p&gt;
+
+&lt;h3 id=&quot;v---mises-à-jour&quot;&gt;&lt;a name=&quot;updates&quot;&gt;&lt;/a&gt;V - Mises à jour&lt;/h3&gt;
+&lt;p&gt;La mise à jour de la recalbox se fait via le menu, accessible en appuyant sur START. Configurez votre wifi ou branchez un câble réseau sur la recalbox, sélectionnez “OPTIONS SYSTEME” “Mettre à jour la recalbox” et “Démarrer la mise à jour”.&lt;/p&gt;
+
+&lt;p&gt;Le système redémarre après la mise à jour !&lt;/p&gt;
+
+&lt;h2 id=&quot;vi---fonctionnalités-réseau&quot;&gt;&lt;a name=&quot;network&quot;&gt;&lt;/a&gt;VI - Fonctionnalités réseau&lt;/h2&gt;
+&lt;p&gt;Lorsque vous configurez votre wifi ou branchez un câble réseau sur la recalbox, celle-ci partage automatiquement des dossiers sur le réseau local. Sur votre ordinateur, allez dans l’onglet “Réseau” de l’explorateur Windows et sélectionnez la recalbox :
+&lt;a href=&quot;https://github.com/recalbox/recalbox-os/blob/master/wiki/images/recalbox-network1.jpg&quot;&gt;&lt;img src=&quot;https://github.com/recalbox/recalbox-os/blob/master/wiki/images/recalbox-network1-350px.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Si vous ne voyez pas votre recalbox sur le réseau, essayez de taper &lt;strong&gt;\\RECALBOX&lt;/strong&gt; dans la barre d’adresse de explorer. Si cela ne fonctionne toujours pas, aller dans le menu de votre recalbox, &lt;strong&gt;OPTIONS RESEAU&lt;/strong&gt; puis notez votre ip.
+Tapez alors votre ip dans la barre d’adresse de explorer (exemple : &lt;strong&gt;\\192.168.1.30&lt;/strong&gt;)&lt;/p&gt;
+
+&lt;p&gt;Vous accédez ensuite aux dossiers partagés par la recalbox :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/recalbox/recalbox-os/blob/master/wiki/images/recalbox-network2.jpg&quot;&gt;&lt;img src=&quot;https://github.com/recalbox/recalbox-os/blob/master/wiki/images/recalbox-network2-350px.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a---ajouter-ses-propres-jeux&quot;&gt;&lt;a name=&quot;network-add&quot;&gt;&lt;/a&gt;A - Ajouter ses propres jeux&lt;/h3&gt;
+&lt;p&gt;Il vous suffit de copier vos fichiers dans le répertoire correspondant. Vous pouvez utiliser soit des &lt;strong&gt;.zip&lt;/strong&gt; ou des roms décompressés.&lt;/p&gt;
+
+&lt;p&gt;Pour mettre à jour la liste des jeux, allez dans le &lt;strong&gt;Menu&lt;/strong&gt;, puis &lt;strong&gt;Options Des Jeux&lt;/strong&gt; puis &lt;strong&gt;Mettre A Jour Les Listes Des Jeux&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;N’hésitez pas à venir parler de votre liste de jeux favoris sur le forum de recalbox !&lt;/p&gt;
+
+&lt;h3 id=&quot;b---arcade-games&quot;&gt;&lt;a name=&quot;network-arcade&quot;&gt;&lt;/a&gt;B - Arcade games&lt;/h3&gt;
+&lt;p&gt;Si vous souhaitez ajouter des jeux d’arcade à votre recalbox, vous devez lire le &lt;em&gt;mini how to&lt;/em&gt; &lt;a href=&quot;https://github.com/recalbox/recalbox-os/wiki/Ajoutez-des-jeux-d'arcade-%28FR%29&quot;&gt;Ajoutez des jeux d’arcade&lt;/a&gt; et/ou, pour apprendre comment vérifier ses romset avec [[Vérifier la version de vos roms|Vérifier-la-version-de-vos-roms-avec-clrmamepro-(FR)]].  &lt;br /&gt;
+Il est également possible d’activer [[l’Unibios NeoGeo|Use-Neogeo-Unibios-(EN)]] pour obtenir plus d’options dans vos jeux.&lt;/p&gt;
+
+&lt;h3 id=&quot;c---jeux-scummvm&quot;&gt;&lt;a name=&quot;network-scummvm&quot;&gt;&lt;/a&gt;C - Jeux Scummvm&lt;/h3&gt;
+&lt;p&gt;Lorsque vous ajoutez un jeu Scummvm, ce dernier doit être un répertoire décompressé. Dans ce répertoire, vous devrez ajouter un fichier vide, nommé [gameshortname].scummvm&lt;/p&gt;
+
+&lt;p&gt;Vous trouverez la liste des “shortnames” des jeux compatibles ici : http://scummvm.org/compatibility/&lt;/p&gt;
+
+&lt;p&gt;Par exemple, si vous copiez le répertoire “Broken Sword 1” dans le dossier scummvm. Dans ce répertoire, créez un fichier qui portera le nom sword1.scummvm&lt;/p&gt;
+
+&lt;p&gt;Votre jeu apparaîtra alors dans l’interface et vous pourrez alors modifier ses metadata si vous voulez afficher son vrai nom dans emulationstation.&lt;/p&gt;
+
+&lt;h3 id=&quot;d---captures-décran&quot;&gt;&lt;a name=&quot;network-screenshots&quot;&gt;&lt;/a&gt;D - Captures d’écran&lt;/h3&gt;
+&lt;p&gt;En appuyant sur Hotkey + L1 dans les émulateurs, vous pourrez faire une capture d’écran. Le fichier png est alors placé dans le dossier “screenshots”, accessible depuis le réseau. 
+N’hésitez pas à venir partager sur nos forums vos meilleurs scores et vos meilleurs shots !&lt;/p&gt;
+
+&lt;h3 id=&quot;e---faire-une-copie-de-ses-sauvegardes&quot;&gt;&lt;a name=&quot;saves&quot;&gt;&lt;/a&gt;E - Faire une copie de ses sauvegardes&lt;/h3&gt;
+&lt;p&gt;Sur le réseau, la recalbox partage un dossier “sauvegardes”. Ce dossier vous donne accès à toutes les sauvegardes des émulateurs. Vous pouvez donc transférer vos anciennes sauvegardes ou faire une copie de ce dossier afin d’avoir l’esprit tranquille…&lt;/p&gt;
+
+&lt;h2 id=&quot;vii---kodi-media-center&quot;&gt;&lt;a name=&quot;kodi&quot;&gt;&lt;/a&gt;VII - Kodi Media Center&lt;/h2&gt;
+&lt;p&gt;En pressant le bouton X de votre manette, vous pouvez démarrer Kodi Media Center, aka XBMC. Vous pouvez également accéder à Kodi en pressant Start et en le démarrant depuis le menu.&lt;/p&gt;
+
+&lt;p&gt;Pour quitter Kodi, sélectionnez “QUIT” dans le programme, et vous serez de retour sous emulationstation.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Les manettes sont dorénavant supportées dans Kodi. Mais si vous préférez, vous pouvez également utiliser le HDMI CEC ou une application smartphone de contrôle à distance. Plus d’informations dans le mini how-to [[Kodi dans recalbox&lt;/td&gt;
+      &lt;td&gt;Kodi-dans-recalbox-(FR)]]&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;viii---dépannage&quot;&gt;&lt;a name=&quot;trouble&quot;&gt;&lt;/a&gt;VIII - Dépannage&lt;/h2&gt;
+
+&lt;h3 id=&quot;a---manettes-&quot;&gt;&lt;a name=&quot;trouble-controllers&quot;&gt;&lt;/a&gt;A - Manettes :&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;La manette PS3 clignote mais ne se synchronise pas
+Branchez la manette et attendez 10 secondes. Débranchez alors la manette, et appuyez sur le bouton HOME.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;La manette PS3 semble morte
+Il faut réinitialiser la manette. Utilisez un trombone pour appuyer sur le bouton situé derrière la manette, à l’intérieur du petit trou, à droite de la visse du milieu.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;b---autres-problèmes&quot;&gt;&lt;a name=&quot;trouble-other&quot;&gt;&lt;/a&gt;B - Autres problèmes&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bordures noires, image trop grande &lt;br /&gt;
+Utilisez la télécommande de la télévision pour accéder aux paramètres d’affichage. Il faut régler l’affichage sur  “1:1 pixel” ou “tout afficher“ pour que la TV ne perde pas une partie de l’image.
+Sinon, regardez [[Overscan settings|Overscan-settings-(FR)]] pour plus d’informations.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ecran noir sur un écran de PC
+Si vous avez une écran noir lorsque que vous utilisez un écran de PC (hdmi ou dvi), éditez le fichier config.txt (touche majuscule du clavier au boot) et retirez la ligne hdmi_drive=2
+Plus d’informations dans [[Mini HowTo - Connectez votre recalbox à un écran DVI|Connectez-votre-recalbox-à-un-écran-DVI-(FR)]]&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;c----restauration-complète-de-la-recalbox&quot;&gt;&lt;a name=&quot;hard-reset&quot;&gt;&lt;/a&gt;C -  Restauration complète de la recalbox&lt;/h3&gt;
+&lt;p&gt;Si vous voulez restaurer complètement votre recalbox, branchez un clavier USB et maintenez la touche MAJ en allumant la console. Vous pourrez alors réinstaller recalboxOS à partir de ce menu. 
+Attention, cette procédure efface toutes les données.&lt;/p&gt;
+
+&lt;h3 id=&quot;d---accès-root&quot;&gt;&lt;a name=&quot;root-access&quot;&gt;&lt;/a&gt;D - Accès ROOT&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Utilisez le nom d’utilisateur &lt;code&gt;root&lt;/code&gt; et le mot de passe &lt;code&gt;recalboxroot&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Vous pouvez vous connecter via SSH à la recalbox.&lt;/li&gt;
+  &lt;li&gt;Vous pouvez accéder directement à un terminal en quittant emulationstation avec F4 et en appuyant sur ALT+F2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Plus d’information dans [[Mini HowTo - Accès ROOT avec un terminal&lt;/td&gt;
+      &lt;td&gt;accès-root-sur-Terminal–(FR)]]&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;ix---recalboxconf&quot;&gt;&lt;a name=&quot;recalbox.conf&quot;&gt;&lt;/a&gt;IX - recalbox.conf&lt;/h2&gt;
+&lt;p&gt;Le fichier &lt;code&gt;recalbox.conf&lt;/code&gt;, partagé via Samba dans le répertoire &lt;code&gt;system&lt;/code&gt;, est utilisé pour modifier d’autres paramètres qui n’apparaîtront pas dans l’interface. Voir [[recalbox.conf|recalbox.conf-(FR)]]&lt;/p&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/recalbox-blog/Notice&quot;&gt;Notice fr&lt;/a&gt; was originally published by Recalbox at &lt;a href=&quot;http:/recalbox-blog&quot;&gt;&lt;/a&gt; on November 23, 2016.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Sujet Demo]]></title>
+  <link rel="alternate" type="text/html" href="http:/recalbox-blog/demo-post"/>
+  <id>http:/recalbox-blog/demo-post</id>
+  <published>2015-07-12T07:55:00+06:00</published>
+  <updated>2015-07-12T07:55:00+06:00</updated>
+  <author>
+    <name>Recalbox</name>
+    <uri>http:/recalbox-blog</uri>
+    <email>mika@recalbox.com</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;p&gt;&lt;small&gt;This demo page has been used from &lt;a href=&quot;https://jasonm23.github.io/markdown-css-themes/&quot; target=&quot;_blank&quot;&gt;http://jasonm23.github.io/markdown-css-themes/&lt;/a&gt;.&lt;/small&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;contenu-fr&quot;&gt;Contenu FR&lt;/h3&gt;
+&lt;p&gt;Test pr travis test
+nzfzkgnenjobeniobper&lt;/p&gt;
+
+&lt;p&gt;Test&lt;/p&gt;
+&lt;h1&gt;A First Level Header&lt;/h1&gt;
+
+&lt;h2&gt;A Second Level Header&lt;/h2&gt;
+
+&lt;h3&gt;A Third Level Header&lt;/h3&gt;
+
+&lt;h4&gt;A Fourth Level Header&lt;/h4&gt;
+
+&lt;h5&gt;A Fifth Level Header&lt;/h5&gt;
+
+&lt;h6&gt;A Sixed Level Header&lt;/h6&gt;
+
+&lt;p&gt;Now is the time for all good men to come to
+the aid of their country. This is just a
+regular paragraph.&lt;/p&gt;
+
+&lt;p&gt;The quick brown fox jumped over the lazy
+dog&amp;rsquo;s back.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3&gt;Header 3&lt;/h3&gt;
+
+&lt;blockquote&gt;&lt;p&gt;This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
+consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/p&gt;
+
+&lt;p&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
+id sem consectetuer libero luctus adipiscing.&lt;/p&gt;
+
+&lt;h2&gt;This is an H2 in a blockquote&lt;/h2&gt;
+
+&lt;p&gt;This is the first level of quoting.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;This is nested blockquote.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Back to the first level.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Some of these words &lt;em&gt;are emphasized&lt;/em&gt;.
+Some of these words &lt;em&gt;are emphasized also&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Use two asterisks for &lt;strong&gt;strong emphasis&lt;/strong&gt;.
+Or, if you prefer, &lt;strong&gt;use two underscores instead&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Candy.&lt;/li&gt;
+&lt;li&gt;Gum.&lt;/li&gt;
+&lt;li&gt;Booze.&lt;/li&gt;
+&lt;li&gt;Red&lt;/li&gt;
+&lt;li&gt;Green&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Blue&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;A list item.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With multiple paragraphs.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Another item in the list.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;This is a list item with two paragraphs. Lorem ipsum dolor
+sit amet, consectetuer adipiscing elit. Aliquam hendrerit
+mi posuere lectus.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Vestibulum enim wisi, viverra nec, fringilla in, laoreet
+vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
+sit amet velit.*   Suspendisse id sem consectetuer libero luctus adipiscing.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This is a list item with two paragraphs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is the second paragraph in the list item. You&amp;rsquo;re
+only required to indent the first line. Lorem ipsum dolor
+sit amet, consectetuer adipiscing elit.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Another item in the same list.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;A list item with a bit of &lt;code&gt;code&lt;/code&gt; inline.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;A list item with a blockquote:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;This is a blockquote
+inside a list item.&lt;/p&gt;&lt;/blockquote&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here is an example of a pre code block&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;tell application &quot;Foo&quot;
+    beep
+end tell
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This is an &lt;a href=&quot;#&quot;&gt;example link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I start my morning with a cup of coffee and
+&lt;a href=&quot;http://www.nytimes.com/&quot;&gt;The New York Times&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;code-snippet&quot;&gt;Code snippet&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;vm&quot;&gt;__name__&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;__main__&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;img_thread&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;threading&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Thread&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;target&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;downloadWallpaper&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;img_thread&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;st&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\r&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Downloading Image&amp;#39;&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;current&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;img_thread&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;is_alive&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;sys&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;stdout&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;st&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;.&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;current&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;current&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;current&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;time&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sleep&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;0.3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;img_thread&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Image of the day downloaded.&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/recalbox-blog/demo-post&quot;&gt;Sujet Demo&lt;/a&gt; was originally published by Recalbox at &lt;a href=&quot;http:/recalbox-blog&quot;&gt;&lt;/a&gt; on July 12, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Color Choices]]></title>
+  <link rel="alternate" type="text/html" href="http:/recalbox-blog/color-choices"/>
+  <id>http:/recalbox-blog/color-choices</id>
+  <published>2015-07-12T07:54:00+06:00</published>
+  <updated>2015-07-12T07:54:00+06:00</updated>
+  <author>
+    <name>Recalbox</name>
+    <uri>http:/recalbox-blog</uri>
+    <email>mika@recalbox.com</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;h3 id=&quot;any-of-the-following-color-values-can-be-used-as-the-value-of-color-in-the-front-matter-of-the-blog-post&quot;&gt;Any of the following color values can be used as the value of &lt;code&gt;color&lt;/code&gt; in the front matter of the blog post.&lt;/h3&gt;
+&lt;div class=&quot;bg-grey&quot;&gt;
+    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;grey&lt;/a&gt;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg-orange&quot;&gt;
+    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;orange&lt;/a&gt;&lt;/h2&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;bg-yellow&quot;&gt;
+    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;yellow&lt;/a&gt;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg-amber&quot;&gt;
+    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;amber&lt;/a&gt;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg-light-blue&quot;&gt;
+    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;light-blue&lt;/a&gt;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg-lime&quot;&gt;
+    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;lime&lt;/a&gt;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg-teal&quot;&gt;
+    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;teal&lt;/a&gt;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg-black-87&quot;&gt;
+    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;black-87&lt;/a&gt;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg-blue-grey&quot;&gt;
+    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;blue-grey&lt;/a&gt;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg-brown&quot;&gt;
+    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;brown&lt;/a&gt;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg-indigo&quot;&gt;
+    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;indigo&lt;/a&gt;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg-purple&quot;&gt;
+    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;purple&lt;/a&gt;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg-deep-purple&quot;&gt;
+    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;deep-purple&lt;/a&gt;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg-red&quot;&gt;
+    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;red&lt;/a&gt;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg-pink&quot;&gt;
+    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;pink&lt;/a&gt;&lt;/h2&gt;
+&lt;/div&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/recalbox-blog/color-choices&quot;&gt;Color Choices&lt;/a&gt; was originally published by Recalbox at &lt;a href=&quot;http:/recalbox-blog&quot;&gt;&lt;/a&gt; on July 12, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Welcome to Jekyll!]]></title>
+  <link rel="alternate" type="text/html" href="http:/recalbox-blog/jekyll/update/welcome-to-jekyll"/>
+  <id>http:/recalbox-blog/jekyll/update/welcome-to-jekyll</id>
+  <published>2015-07-11T19:50:39+06:00</published>
+  <updated>2015-07-11T19:50:39+06:00</updated>
+  <author>
+    <name>Recalbox</name>
+    <uri>http:/recalbox-blog</uri>
+    <email>mika@recalbox.com</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/recalbox-blog/jekyll/update/welcome-to-jekyll&quot;&gt;Welcome to Jekyll!&lt;/a&gt; was originally published by Recalbox at &lt;a href=&quot;http:/recalbox-blog&quot;&gt;&lt;/a&gt; on July 11, 2015.&lt;/p&gt;</content>
+</entry>
+
+</feed>

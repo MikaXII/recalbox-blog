@@ -1,7 +1,15 @@
 [
 	
 		{
-		  "title"      : "Manual en",
+		  "title"      : "Seulement fr",
+		  "category"   : "",
+		  "url"        : "/Seulement-fr",
+		  "date"       : "2016-11-23 06:00:00 +0600",
+		  "shortdate"  : "November 23, 2016"
+		} ,
+	
+		{
+		  "title"      : "Notice fr",
 		  "category"   : "",
 		  "url"        : "/Notice",
 		  "date"       : "2016-11-23 06:00:00 +0600",
@@ -9,7 +17,7 @@
 		} ,
 	
 		{
-		  "title"      : "Demo Post",
+		  "title"      : "Sujet Demo",
 		  "category"   : "",
 		  "url"        : "/demo-post",
 		  "date"       : "2015-07-12 07:55:00 +0600",
