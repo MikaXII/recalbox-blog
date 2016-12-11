@@ -18,12 +18,10 @@ Travis-build : [kickster](https://github.com/nielsenramon/kickster)
 	color: purple
 	title:  "Color Choices"
 	date:   2016-11-13 00:00:00
-	cover: /img/cover.jpg		// Important pour avoir une image associer au post
 	---
-
 	```
 
-* Ajouter les images dans /img/
+* Ajouter les images dans /imgages/
 
 * Ajouter les articles en fonction de la langue dans _i18n/[en][fr]/_posts/2016-11-23-Titre-du-sujet.md
 
